@@ -13,7 +13,7 @@ print("\\\n\\")
 
 print(r"I can try \nthis")
 
-%-------------
+#-------------
 a = 123 # a是整数
 print(a)
 a = 'ABC' # a变为字符串
@@ -39,4 +39,4 @@ print(r"s2 = 'Hello, \'Adam\''")
 print("s3 = \'Hello, \"Bart\"\'")
 print("s4 = r\'\'\'Hello,")
 print("Lisa!\'\'\'")
-%--------------
+#--------------
